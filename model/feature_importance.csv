@@ -1,0 +1,120 @@
+Feature,Importance
+strike_rate,0.10123288645931391
+venue_avg_runs,0.059475867701325645
+batting_vs_opponent,0.57378489354879
+batting_team_Chennai Super Kings,0.0034222308116574453
+batting_team_Deccan Chargers,0.0017006524512950367
+batting_team_Delhi Capitals,0.002010419189134319
+batting_team_Delhi Daredevils,0.0023207405352604063
+batting_team_Gujarat Lions,0.0007204592488714979
+batting_team_Gujarat Titans,0.0010570726075144624
+batting_team_Kings XI Punjab,0.00327051327777003
+batting_team_Kochi Tuskers Kerala,0.0002942322103363047
+batting_team_Kolkata Knight Riders,0.002894545188673531
+batting_team_Lucknow Super Giants,0.0013089972588780838
+batting_team_Mumbai Indians,0.005717512382864617
+batting_team_Pune Warriors,0.00034586011604517366
+batting_team_Punjab Kings,0.0008643943204580746
+batting_team_Rajasthan Royals,0.0031207888325293616
+batting_team_Rising Pune Supergiant,0.0005681378338436814
+batting_team_Rising Pune Supergiants,0.0001655864331348153
+batting_team_Royal Challengers Bangalore,0.004020923566638011
+batting_team_Royal Challengers Bengaluru,0.0003632045874317923
+batting_team_Sunrisers Hyderabad,0.0028232375481008543
+bowling_team_Chennai Super Kings,0.005579804183808544
+bowling_team_Deccan Chargers,0.002928514646429338
+bowling_team_Delhi Capitals,0.004373678494514038
+bowling_team_Delhi Daredevils,0.004276864672961183
+bowling_team_Gujarat Lions,0.0026420762757207628
+bowling_team_Gujarat Titans,0.0015248635233486463
+bowling_team_Kings XI Punjab,0.0049888882208564585
+bowling_team_Kochi Tuskers Kerala,0.0003752089119176356
+bowling_team_Kolkata Knight Riders,0.004338988241735193
+bowling_team_Lucknow Super Giants,0.0021305520481726876
+bowling_team_Mumbai Indians,0.00618726378607443
+bowling_team_Pune Warriors,0.0020105558715166807
+bowling_team_Punjab Kings,0.0015675508990219264
+bowling_team_Rajasthan Royals,0.0051042686383626305
+bowling_team_Rising Pune Supergiant,0.0016533347387727257
+bowling_team_Rising Pune Supergiants,0.000592123551467193
+bowling_team_Royal Challengers Bangalore,0.006624413322024075
+bowling_team_Royal Challengers Bengaluru,0.0008136942244902555
+bowling_team_Sunrisers Hyderabad,0.005832528934331927
+venue_Arun Jaitley Stadium,0.0009434403622674831
+"venue_Arun Jaitley Stadium, Delhi",0.0010385345035336785
+venue_Barabati Stadium,0.0003203118549067457
+"venue_Barsapara Cricket Stadium, Guwahati",0.00023464469269165664
+"venue_Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0.0004268155439318903
+venue_Brabourne Stadium,0.0009360150818018235
+"venue_Brabourne Stadium, Mumbai",0.0008535411109944872
+venue_Buffalo Park,4.824348229194553e-05
+venue_De Beers Diamond Oval,6.331900836247942e-05
+venue_Dr DY Patil Sports Academy,0.0006821533496617904
+"venue_Dr DY Patil Sports Academy, Mumbai",0.0017574692857609997
+venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0.0006835199391985275
+"venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",4.016891551414967e-05
+venue_Dubai International Cricket Stadium,0.0022930385275870386
+venue_Eden Gardens,0.002121302014009607
+"venue_Eden Gardens, Kolkata",0.0027243391926944187
+venue_Feroz Shah Kotla,0.0018052113783040102
+venue_Green Park,0.00024408265907167645
+venue_Himachal Pradesh Cricket Association Stadium,0.0005946655983395668
+"venue_Himachal Pradesh Cricket Association Stadium, Dharamsala",0.0002090872599582989
+venue_Holkar Cricket Stadium,0.0004726387285860536
+venue_JSCA International Stadium Complex,0.00011094053561406713
+venue_Kingsmead,0.0012634171098919536
+venue_M Chinnaswamy Stadium,0.004155554858949189
+"venue_M Chinnaswamy Stadium, Bengaluru",0.0005773074689579496
+venue_M.Chinnaswamy Stadium,0.0009844337323836776
+venue_MA Chidambaram Stadium,0.0006776306049944965
+"venue_MA Chidambaram Stadium, Chepauk",0.0027137356276600967
+"venue_MA Chidambaram Stadium, Chepauk, Chennai",0.0008791461454356634
+"venue_Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",0.00027232440647828235
+venue_Maharashtra Cricket Association Stadium,0.0008216554588179185
+"venue_Maharashtra Cricket Association Stadium, Pune",0.0007327600581477189
+"venue_Narendra Modi Stadium, Ahmedabad",0.001765342595153414
+venue_Nehru Stadium,0.00010316257055346791
+venue_New Wanderers Stadium,0.0003077007202962222
+venue_Newlands,0.000272782689266911
+venue_OUTsurance Oval,9.873379911908094e-06
+venue_Punjab Cricket Association IS Bindra Stadium,0.0007607815973607623
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali",0.0003817736779700805
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0.00013074816939203726
+"venue_Punjab Cricket Association Stadium, Mohali",0.0012377137978892617
+venue_Rajiv Gandhi International Stadium,0.000841848067031884
+"venue_Rajiv Gandhi International Stadium, Uppal",0.0015445744947633778
+"venue_Rajiv Gandhi International Stadium, Uppal, Hyderabad",0.0007623455738140781
+"venue_Sardar Patel Stadium, Motera",0.00045724344942929735
+venue_Saurashtra Cricket Association Stadium,0.00030328903508850436
+venue_Sawai Mansingh Stadium,0.0011687208083214766
+"venue_Sawai Mansingh Stadium, Jaipur",0.00047294833882811395
+venue_Shaheed Veer Narayan Singh International Stadium,0.00016636339804000302
+venue_Sharjah Cricket Stadium,0.0015014963334000202
+venue_Sheikh Zayed Stadium,0.001774711834605754
+venue_St George's Park,0.00014461489488535695
+venue_Subrata Roy Sahara Stadium,0.00046050338240996407
+venue_SuperSport Park,0.0010960000613420922
+"venue_Vidarbha Cricket Association Stadium, Jamtha",0.00013358514458983647
+venue_Wankhede Stadium,0.0026221162907292374
+"venue_Wankhede Stadium, Mumbai",0.0027009070768005392
+"venue_Zayed Cricket Stadium, Abu Dhabi",0.000300610461077431
+season_2007/08,0.003870697325690684
+season_2009,0.00167649762371301
+season_2009/10,0.0037583671998600494
+season_2011,0.0041194932457291975
+season_2012,0.004295283971165925
+season_2013,0.003552089683061699
+season_2014,0.003006086660810475
+season_2015,0.0029144165315396495
+season_2016,0.0033366640286890707
+season_2017,0.002322176123132095
+season_2018,0.0034310344202464703
+season_2019,0.0026439640279917382
+season_2020/21,0.005854061113950855
+season_2021,0.002027176436469701
+season_2022,0.001976584594591197
+season_2023,0.0037295166713164707
+season_2024,0.0031254473082608387
+over_category_Death,0.009168136551288326
+over_category_Middle,0.04106905411039172
+over_category_Powerplay,0.005991716736957131
